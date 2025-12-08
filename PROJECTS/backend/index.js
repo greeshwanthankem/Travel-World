@@ -14,7 +14,11 @@ dotenv.config();
 const app = express();
 const port = process.env.PORT || 8000;
 const corsOptions = {
-  origin: "https://full-stack-website-hazel.vercel.app",
+  origin: ["https://full-stack-website-hazel.vercel.app",
+           "https://mytravelworld.vercel.app",
+            "http://localhost:3000",
+              "http://localhost:5173"],
+  credentials: true,
 };
 
 // database connection
