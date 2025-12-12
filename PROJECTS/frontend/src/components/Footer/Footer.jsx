@@ -109,7 +109,7 @@ const Footer = () => {
                   Address:
                 </h6>
 
-                <p className="mb-0">Vijayawada</p>
+                <p className="mb-0">Vijayawada, Andhra Pradesh, India</p>
               </ListGroupItem>
               <ListGroupItem className="ps-0 border-0 d-flex align-items-center gap-3">
                 <h6 className="mb-0 d-flex align-items-center gap-2">
@@ -119,7 +119,7 @@ const Footer = () => {
                   Email:
                 </h6>
 
-                <p className="mb-0">pvpsit@ac.in</p>
+                <p className="mb-0">greeshwanthankem@gmail.com</p>
               </ListGroupItem>
               <ListGroupItem className="ps-0 border-0 d-flex align-items-center gap-3">
                 <h6 className="mb-0 d-flex align-items-center gap-2">
